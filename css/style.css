@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+    background-image: url('https://thumbs.dreamstime.com/b/balle-de-tennis-jaune-et-raquette-sur-fond-bleu-court-dur-soir%C3%A9e-composition-sportive-vacances-avec-espace-copie-sport-mode-vie-216718406.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+video{
+    width: 500px;
+}
+ 
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: blue;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}

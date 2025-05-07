@@ -1,0 +1,15 @@
+h1 {
+    color: darkgreen;
+   
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 800px;
+}
+
+th, td {
+    border: 4px solid #d63644;
+    padding: 8px;
+}
